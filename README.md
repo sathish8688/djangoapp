@@ -1,1 +1,1 @@
-# djangoapp
+# djangoapp repository
